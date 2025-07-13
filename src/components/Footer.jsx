@@ -45,7 +45,7 @@ const Footer = () => {
                 <i className="fab fa-linkedin-in text-[20px]"></i>
               </a>
               <a
-                href="https://x.com/SamMittal2010"
+                href="https://x.com/isammittal"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full flex justify-center items-center border border-white hover:bg-white hover:text-black transition-colors"
