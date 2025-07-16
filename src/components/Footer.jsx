@@ -37,7 +37,7 @@ const Footer = () => {
                 <i className="fab fa-github text-[20px]"></i>
               </a>
               <a
-                href="https://www.linkedin.com/in/sam-mittal-507911278/"
+                href="https://www.linkedin.com/in/isammittal/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-full flex justify-center items-center border border-white hover:bg-white hover:text-black transition-colors"
